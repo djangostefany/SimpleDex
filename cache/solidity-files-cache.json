@@ -2,7 +2,7 @@
   "_format": "hh-sol-cache-2",
   "files": {
     "/home/transfor/ethKipu/SimpleDex/contracts/Greeter.sol": {
-      "lastModificationDate": 1733292609648,
+      "lastModificationDate": 1733333973661,
       "contentHash": "01d6ac039a6a861a39c4ac2764309b02",
       "sourceName": "contracts/Greeter.sol",
       "solcConfig": {
@@ -40,7 +40,7 @@
       ]
     },
     "/home/transfor/ethKipu/SimpleDex/node_modules/hardhat/console.sol": {
-      "lastModificationDate": 1733292312340,
+      "lastModificationDate": 1733334016175,
       "contentHash": "681c532e816169606d13a5fe8b475074",
       "sourceName": "hardhat/console.sol",
       "solcConfig": {
