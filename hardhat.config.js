@@ -13,10 +13,13 @@ module.exports = {
       url: alchemyUrl,
       accounts: [prKey],
     },
+    hardhat: {
+      chainId: 1337,
+    },
   },
   etherscan: {
     apiKey: {
       sepolia: ethScanApi,
     },
-  },  
+  }, 
 };

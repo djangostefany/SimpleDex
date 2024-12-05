@@ -1,4 +1,4 @@
-module.exports = ["Hola Mundo"];
+module.exports = ["Hola"];
 
 
 
